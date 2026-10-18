@@ -33,3 +33,46 @@
 .footer-main .brand-mark{background:#d91f32}
 .floating-badge{border:1px solid rgba(29,55,104,.08)}
 .text-link,.program-card a{color:#d91f32}
+
+
+/* Readability, official crest and two-campus contact updates */
+.brand-logo{display:block;width:66px;height:58px;object-fit:contain;border-radius:8px;background:#1d3768;flex-shrink:0}
+.brand{gap:12px}
+.brand-copy strong{font-size:18px}
+.brand-copy small{font-size:13px;letter-spacing:1.8px}
+.main-nav{font-size:15px}
+.topbar{font-size:13px}
+.hero-lead{font-size:18px;line-height:1.85}
+.hero-note strong{font-size:14px}
+.hero-note small{font-size:12px}
+.fact strong{font-size:14px}
+.fact small{font-size:12px}
+.section-copy p,.section-heading p{font-size:16px;line-height:1.85}
+.program-card h3{font-size:23px}
+.program-card p{font-size:14px;line-height:1.8}
+.program-card a,.text-link{font-size:14px}
+.value-list strong{font-size:15px}
+.value-list small{font-size:13px}
+.admissions-inner p{font-size:15px;line-height:1.8}
+.contact-detail strong{font-size:14px}
+.contact-detail small{font-size:13px;line-height:1.7}
+.contact-form label{font-size:13px}
+.contact-form input,.contact-form select,.contact-form textarea{font-size:14px}
+.contact-form>p{font-size:14px}
+.form-note{font-size:11px}
+.footer-main>p,.footer-links{font-size:13px}
+.footer-bottom .container{font-size:12px}
+@media(max-width:760px){
+ .brand-logo{width:53px;height:48px}
+ .brand-copy strong{font-size:15px}
+ .brand-copy small{font-size:11px;letter-spacing:1.4px}
+ .main-nav{font-size:15px}
+ .hero-lead{font-size:16px}
+ .fact strong{font-size:13px}
+ .fact small{font-size:11px}
+ .section-copy p,.section-heading p{font-size:15px}
+ .program-card h3{font-size:21px}
+ .program-card p{font-size:14px}
+ .contact-detail strong{font-size:14px}
+ .contact-detail small{font-size:13px}
+}

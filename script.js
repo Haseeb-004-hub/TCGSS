@@ -22,7 +22,7 @@ if (menuToggle && mainNav) {
 document.getElementById("year").textContent = new Date().getFullYear();
 
 // Replace this placeholder with the school's real public email before launch.
-const SCHOOL_EMAIL = "replace-with-school-email@example.com";
+const SCHOOL_EMAIL = "chenabgalaxy@gmail.com";
 
 const contactForm = document.getElementById("contactForm");
 if (contactForm) {
