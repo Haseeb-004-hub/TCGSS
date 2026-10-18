@@ -32,3 +32,13 @@ In `script.js`, replace `SCHOOL_EMAIL` with the real public school email address
 
 ## Important
 This is a starter website. It does not currently include a backend, online admissions submission, student portal, payment system or database. Do not publish unverified school claims or placeholder contact information.
+
+
+## School branding
+The stylesheet uses a brand palette inspired by the supplied school poster:
+- Navy blue
+- Red
+- Yellow / gold
+- White and light neutral backgrounds
+
+Typography uses Oswald for bold school headings and Roboto for body copy, with Playfair Display available for optional elegant accent text. Google Fonts requires an internet connection; system fallbacks are provided.
