@@ -20,8 +20,8 @@
 }
 
 .brand-logo {
-  width: 90px;
-  height: 90px;
+  width: 180px;
+  height: 180px;
   object-fit: contain;
 }
 
@@ -89,8 +89,8 @@
   }
 
   .brand-logo {
-    width: 76px;
-    height: 76px;
+    width: 100px;
+    height: 100px;
   }
 
   .brand-copy strong {
